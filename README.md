@@ -35,6 +35,6 @@ Example:
 ## ⚙️ **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Stick-Stars.git
+   git clone https://github.com/nileshbirla12/Stick-Stars.git
 
 ---
